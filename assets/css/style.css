@@ -1,0 +1,16 @@
+body{
+    background-image: url(https://i.imgur.com/JcI1fEq.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+	text-align: center;
+}
+h1{
+    color: Red;
+}
+label{
+    color: white;
+}
+#add-character {
+    color: red;
+
+}
